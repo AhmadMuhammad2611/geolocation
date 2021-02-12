@@ -1,0 +1,19 @@
+input {
+    padding: 18px;
+    color: #fff;
+    border: none;
+    background: #120488;
+    border-radius: 8px;
+    font-size: 15px;
+    cursor: pointer;
+}
+input:hover{
+    color: #120488;
+    border: none;
+    background: #DDD;
+}
+#mymap{
+    width:600px;
+    height:600px;
+    margin: 20px auto;
+}
